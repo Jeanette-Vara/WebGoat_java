@@ -2,3 +2,5 @@ usermane admin
 password admin123
 usermane paquito
 password admin123
+usermane BD
+password admin123
