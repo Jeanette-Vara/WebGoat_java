@@ -4,3 +4,5 @@ usermane paquito
 password admin123
 usermane BD
 password admin123
+usermane Servicios
+password admin123
