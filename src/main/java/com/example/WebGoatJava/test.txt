@@ -1,0 +1,2 @@
+usermane admin
+password admin123
